@@ -1,0 +1,15 @@
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\SuperMarket.Services.deps.json
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\SuperMarket.Services.dll
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\ref\SuperMarket.Services.dll
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\SuperMarket.Services.pdb
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\SuperMarket.Core.dll
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\bin\Debug\net5.0\SuperMarket.Core.pdb
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.csprojAssemblyReference.cache
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.AssemblyInfoInputs.cache
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.AssemblyInfo.cs
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.csproj.CoreCompileInputs.cache
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.csproj.CopyComplete
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.dll
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\ref\SuperMarket.Services.dll
+D:\Learning\Lectures\Fourth-yearStudent_2\KTHDV\Chapter_4\supermaker\server\SuperMarket.Services\obj\Debug\net5.0\SuperMarket.Services.pdb

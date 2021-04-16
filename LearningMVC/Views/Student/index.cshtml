@@ -1,0 +1,33 @@
+@model List<Student>
+@{
+    ViewData["Title"] = "Student Page";
+    // List<Student> students = ViewData["renderStudents"] as List<Student>;
+    List<Student> students = Model;
+}
+<h1>Welcome</h1>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Adress</th>
+            <th><a href="/student/add" class="btn btn-primary">New Student</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in students)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Address</td>
+                <td>
+                    <a href="/student/edit?studentId=@student.Id" class="btn btn-success">Edit</a>
+                    <a href="/student/delete?studentId=@student.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
