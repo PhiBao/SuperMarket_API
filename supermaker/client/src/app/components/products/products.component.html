@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <a class="btn btn-primary" href="/product-info"> New Product</a>
+    </div>
+  </div>
+  <div class="row">
+    <app-product-detail
+      [product]="product"
+      class="col-md-4"
+      *ngFor="let product of products"
+    >
+    </app-product-detail>
+  </div>
+</div>
